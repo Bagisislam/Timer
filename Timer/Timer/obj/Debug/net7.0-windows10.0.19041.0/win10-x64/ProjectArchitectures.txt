@@ -1,0 +1,1 @@
+C:\Users\gsli_\source\repos\Timer\Timer\Timer.csproj;x64
